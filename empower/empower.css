@@ -1,0 +1,58 @@
+    @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+    .articlemainpage-bg {
+        background-color: #225db0;
+        background-size: cover;
+        height: 100vh;
+    }
+    
+    .articlemainpage-container {
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .articlemainpage-heading {
+        color: #ffffff;
+        font-family: "Roboto";
+        font-size: 30px;
+    }
+    
+    .img-container {
+        border-style: groove;
+        margin: 5px;
+        background-color: white;
+        border-radius: 10px;
+    }
+    
+    .img-card {
+        height: 100px;
+        width: 100px;
+        padding: 15px;
+    }
+    
+    .img-paragraph {
+        text-align: center;
+        font-size: 12px;
+        font-family: "Roboto";
+        font-weight: 500;
+    }
+    
+    .articlemainpage-paragraph {
+        color: #ffffff;
+        font-family: "Roboto";
+    }
+    
+    .tech-container {
+        padding: 10px;
+    }
+    
+    .tech-heading {
+        color: white;
+        font-family: "Roboto";
+        font-size: 25px;
+        padding: 10px;
+    }
+    
+    .list-style {
+        color: white;
+        padding: 5px;
+    }
